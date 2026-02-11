@@ -14,4 +14,8 @@
 # Sempre marcar o readme 
 
 # tres comandos 
-# git add : colocar no git 
+# git add * -- colocar no git 
+
+# git commit -m " o que eu estou fazendo"
+
+# git push -- concluido
